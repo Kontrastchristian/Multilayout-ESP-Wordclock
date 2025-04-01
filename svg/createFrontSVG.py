@@ -13,7 +13,7 @@ row = 0
 textId = 65
 tspanId = 67
 
-Text = ''' * E S K I S T R F Ü N F
+Text = ''' * E S K I S T 
  * Z E H N Z W A N Z I G
  * D R E I V I E R T E L
  * T G N A C H V O R U M
